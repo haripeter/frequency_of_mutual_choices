@@ -1,0 +1,17 @@
+This is an application for analyzing a matrix with the following structure:
+
+	Gabriel	Miguel	Juho	Liisa	Matti	Yadav	Ville	Kedia	Anup	Gunjan
+Gabriel	0	0	3	0	1	0	2	0	0	0
+Miguel	0	0	1	0	3	0	0	0	0	0
+Juho	2	1	1	0	2	0	0	0	0	0
+Liisa	1	1	3	0	1	0	0	0	0	0
+Matti	0	0	0	2	0	1	2	0	0	0
+Yadav	0	0	0	0	0	0	0	0	0	0
+Ville	0	0	0	0	0	0	0	0	0	0
+Kedia	0	0	0	0	0	0	0	0	0	0
+Anup	0	0	0	0	0	0	0	0	0	0
+Gunjan	0	0	0	0	0	0	0	0	0	0
+
+1. create the matrix (with .txt extension)
+2. set the folder to file variable
+3. get the frequency of mutual choices
